@@ -1,0 +1,12 @@
+#slot 1 (didn't realize *** = * is redundant)
+aa = a
+aaa = a
+bb = b
+bbb = b
+cc = c
+ccc = c
+
+#slot 2 (passed the challenge)
+aa = a
+bb = b
+cc = c
