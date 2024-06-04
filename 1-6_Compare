@@ -1,0 +1,11 @@
+#slot 1
+aab = a
+aba = a
+baa = a
+abb = b
+bba = b
+bab = b
+aa = a
+bb = b
+
+#slot 2 (expecting an answer that can pass the challenge)
